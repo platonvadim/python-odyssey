@@ -1,10 +1,10 @@
 # python-odyssey
 
-Python Odyssey is a Python3 bootcamp by Sigmoid.
+Python Odyssey is a Python3 bootcamp by Sigmoid. This repository is used to store homework tasks.
 
 ## Installation
 
-Use the git command line [git]([https://pip.pypa.io/en/stable/](https://git-scm.com/)) to download this repository.
+Use the git command line [git](https://git-scm.com/) to download this repository.
 
 ```bash
 git clone https://github.com/platonvadim/python-odyssey
